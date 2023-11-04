@@ -18,10 +18,10 @@ Word2Day is a delightful and educational web application that brings a new word 
 - [Redux Persist](https://github.com/rt2zz/redux-persist): To persist and rehydrate your Redux store.
 - And more!
 
+## Demo
+
+Check out the live demo of Word2Day [here](https://word2day.vercel.app/).
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Try Word2Day today and start your journey towards a more articulate and expressive you!
