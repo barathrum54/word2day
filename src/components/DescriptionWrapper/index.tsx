@@ -36,7 +36,7 @@ const DescriptionWrapper: React.FC = () => {
                 <Stack direction="row" alignItems={"center"} gap={2} sx={{ marginBottom: "10px" }}>
                   {toolTip(item.partOfSpeech)}
                   <div>
-                    <Typography>{item.definitions[0].definition}</Typography>
+                    <Typography textAlign={'start'}>{item.definitions[0].definition}</Typography>
                   </div>
                 </Stack>
               </Grid>
